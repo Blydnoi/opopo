@@ -1,0 +1,5 @@
+AddDefaultCharset utf-8
+php_value error_reporting 0
+RewriteEngine On
+RewriteCond %{ENV:HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]

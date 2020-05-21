@@ -1,0 +1,21 @@
+[06-Nov-2016 20:02:39 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/bh46021/public_html/youtube/index.php on line 142
+[06-Nov-2016 20:02:40 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/bh46021/public_html/youtube/index.php on line 142
+[07-Nov-2016 21:12:12 Europe/Moscow] PHP Parse error:  syntax error, unexpected '}' in /home/bh46021/public_html/youtube/inc/functions.php on line 234
+[07-Nov-2016 21:12:28 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/bh46021/public_html/youtube/inc/functions.php on line 236
+[07-Nov-2016 21:18:50 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/bh46021/public_html/youtube/listing.php on line 248
+[08-Nov-2016 21:29:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:29:38 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:31:59 Europe/Moscow] PHP Parse error:  syntax error, unexpected '"' in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:32:00 Europe/Moscow] PHP Parse error:  syntax error, unexpected '"' in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:32:24 Europe/Moscow] PHP Parse error:  syntax error, unexpected '"' in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:32:25 Europe/Moscow] PHP Parse error:  syntax error, unexpected '"' in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:32:58 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bh46021/public_html/youtube/goods.php on line 93
+[08-Nov-2016 21:42:55 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/bh46021/public_html/youtube/goods.php on line 91
+[08-Nov-2016 23:24:33 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'type_rate' (T_STRING) in /home/bh46021/public_html/youtube/goods.php on line 190
+[08-Nov-2016 23:28:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$self_url' (T_VARIABLE) in /home/bh46021/public_html/youtube/goods.php on line 120
+[08-Nov-2016 23:28:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$self_url' (T_VARIABLE) in /home/bh46021/public_html/youtube/goods.php on line 120
+[08-Nov-2016 23:29:00 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$self_url' (T_VARIABLE) in /home/bh46021/public_html/youtube/goods.php on line 120
+[08-Nov-2016 23:29:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$self_url' (T_VARIABLE) in /home/bh46021/public_html/youtube/goods.php on line 120
+[08-Nov-2016 23:29:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$self_url' (T_VARIABLE) in /home/bh46021/public_html/youtube/goods.php on line 120
+[08-Nov-2016 23:29:21 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bh46021/public_html/youtube/goods.php on line 121
+[08-Nov-2016 23:29:22 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bh46021/public_html/youtube/goods.php on line 121
